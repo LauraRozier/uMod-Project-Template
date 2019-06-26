@@ -1,0 +1,32 @@
+The files in this directory can be grabbed from: <Rust server dir>\RustDedicated_Data\Managed\
+
+Dependencies:
+    - Assembly-CSharp
+    - Assembly-CSharp-firstpass
+    - Facepunch.Console
+    - Facepunch.Network
+    - Facepunch.Rcon
+    - Facepunch.Steamworks
+    - Facepunch.System
+    - Facepunch.Unity
+    - Facepunch.UnityEngine
+    - mscorlib
+    - Oxide.Core
+    - Oxide.CSharp
+    - Oxide.MySql
+    - Oxide.References
+    - Oxide.Rust
+    - Oxide.SQLite
+    - Oxide.Unity
+    - Rust.Data
+    - Rust.Global
+    - System
+    - System.Core
+    - System.Data
+    - System.Drawing
+    - System.Runtime.Serialization
+    - System.Xml
+    - System.Xml.Linq
+    - UnityEngine
+    - UnityEngine.UI
+    - websocket-sharp
